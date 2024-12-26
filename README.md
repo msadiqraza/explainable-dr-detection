@@ -42,14 +42,6 @@ pip install -r requirements.txt
 * Explanation Accuracy: [Add metrics]
 * Processing Time: [Add performance details]
 
-## Screenshots
-[Add screenshots of your application, including:
-- UI interface
-- Grad-CAM visualizations
-- Example explanations]
-
-## Contributing
-[Add contribution guidelines if you want to accept contributions]
 
 ## License
 [Add your license information]
@@ -57,8 +49,4 @@ pip install -r requirements.txt
 ## Authors
 [Your name/team information]
 
-## Acknowledgments
-* [Any acknowledgments for datasets, papers, or tools used]
 ```
-
-Would you like me to expand on any section or add more specific details to match your implementation?
