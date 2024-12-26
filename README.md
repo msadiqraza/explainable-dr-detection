@@ -1,9 +1,4 @@
-I'll help you create a professional README.md with a clear title and structure for your project.
-
-```markdown
 # Explainable Diabetic Retinopathy Detection System
-
-![DR Detection](path_to_project_banner.png) <!-- Optional: Add a project banner -->
 
 ## Overview
 An end-to-end system for detecting diabetic retinopathy in retinal images with built-in explainability features. The system combines deep learning for detection with advanced visualization and natural language explanations to provide transparent and interpretable results.
