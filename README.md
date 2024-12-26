@@ -42,11 +42,6 @@ pip install -r requirements.txt
 * Explanation Accuracy: [Add metrics]
 * Processing Time: [Add performance details]
 
-
 ## License
 [Add your license information]
 
-## Authors
-[Your name/team information]
-
-```
